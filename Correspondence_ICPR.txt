@@ -1,0 +1,1176 @@
+Hello,
+
+This is the corresponding author of paper (with ID: 107) for ICPR 2022, titled ‘Leachable Component Clustering'.
+
+I cannot access the provided website, as most google websites are prohibited from visiting in China. Thus, I should have no idea what the detailed contents of the google form is, as well as its usage.
+
+The whole correspondence feedback from ICPR 2022 committee can be checked below, and we just followed the requirements stepwise till submission of final paper and the registration.
+
+Due to the COVID-19, there are many trivials for application to foreign visa in China, especially for the countries beyond Asia. And I do believe that, there would be some other procedures when visitors returned. Consequently, I choose to present our work via online to save academic foundation, and the required ePoster can be found in attachment, which is ready to be presented in ICPR 2022. 
+
+
+Many thanks and regards,
+
+
+Miao Cheng
+------------------------
+School of Computer Science and Information Engineering
+Guangxi Normal University
+Guilin, Guangxi, China
+Email: mcheng@mailbox.gxnu.edu.cn
+
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<iapr@papercept.net>
+
+Date 	08/2/2022 23:33
+To 	<mcheng@mailbox.gxnu.edu.cn> ,
+<miao_cheng@outlook.com>
+
+Subject 	[ICPR 2022] Speaker for paper number %NUMBER% (deadline August, 5)
+Dear authors, 
+
+We need to know who will present your work entitled
+Leachable Component Clustering.
+
+Therefore, we ask you the courtesy to compile the following
+google form by August 5.
+
+Google form: https://forms.gle/m1UqHmgaeShmQHPK6 
+
+Thank you for your kind collaboration, 
+Best regards, 
+Ambra D. 
+
+-----------------------------------------------------------
+Dr. Ambra Demontis
+Electric and Electronic Engineering
+University of Cagliari
+ambra.demontis@unica.it
+09123 Cagliari
+Italy
+E-mail address: ambra.demontis@unica.it
+
+---- Forwarded Message ----
+From 	ICPR 2022<info@icpr2022.com>
+
+Date 	07/27/2022 01:56
+To 	<mcheng@mailbox.gxnu.edu.cn>
+
+Subject 	ICPR 2022 - Paper Assignments
+ 
+
+ 
+	 
+	 
+
+ 
+Dear Miao Cheng,
+
+Greetings from ICPR 2022! We are in our final weeks ahead of the event and wanted to confirm next steps as it relates to the following paper. 
+ 
+Paper Number: 107
+Title: Leachable Component Clustering
+ 
+The above paper has been accepted to be presented as an ePoster at the conference. ICPR 2022 will be using ePosters to allow all delegates the same access to posters, both in-person and virtual. Each poster presenter will be asked to upload a pdf poster, as well as a 2min “elevator pitch” about your poster, which delegates can access via the conference app. 
+ 
+In addition to this, in-person poster presenters will have the ability to speak at a designated Poster session. Poster sessions will not be recorded, live streamed, or otherwise shared virtually, it is just an opportunity for in-person presentation and interaction. Further details confirming session date and time will be provided in the coming weeks. 
+ 
+Late next week, you will receive instructions from our AV team on next steps and upload details. Please note, all future communications will be with the email address connected to the registrant presenting this paper, so please ensure registration details are accurate. 
+ 
+REGISTRATION 
+ 
+According to our records, the registration tied to your paper is as follows: 
+ 
+Registration Identifier: ICPR2022-I/1004
+Registration type: IAPR Members
+In person/virtual:  Virtually
+Presenting paper: 107
+ 
+If any of the above is missing or incorrect, please contact the ICPR 2022 registration team icpr.reghot@mci-group.com before THIS Friday, July 29, so we can update our records and the team can finalize the program. 
+ 
+We look forward to connecting with you soon.  
+ 
+Best regards, 
+
+ICPR Team
+info@icpr2022.com 
+
+
+ 
+ 
+	 
+
+
+For more information, visit: https://www.icpr2022.com/
+
+	 
+info@icpr2022.com
+
+
+
+
+
+MCI Group | 1166 Alberni Street -Suite 504, Vancouver, V6E 3Z3 Canada
+Unsubscribe mcheng@mailbox.gxnu.edu.cn
+
+Update Profile | Our Privacy Policy | Constant Contact Data Notice 
+
+Sent by info@icpr2022.com in collaboration with
+
+
+ 
+Try email marketing for free today!
+
+
+
+
+
+
+
+
+
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<iapr@papercept.net>
+
+Date 	06/25/2022 12:45
+To 	<mcheng@mailbox.gxnu.edu.cn> ,
+<miao_cheng@outlook.com>
+
+Cc 	<youxg@mail.hust.edu.cn>
+
+Subject 	Acknowledgement of the final submission of Revised paper 107 for ICPR 2022
+Message from The PaperCept Conference Management System
+
+
+Dear Prof. Miao Cheng:
+
+This email is to acknowledge receipt of your final paper submitted to 2022 26th International Conference on Pattern Recognition (ICPR) (ICPR 2022) through the Conference Paper Management System of the IAPR. The final program information will be available at the conference website shortly.
+
+Attached below are pertinent data on your submission for you to verify. If there is any error or necessary change to your contact data, please update the data at the following site:
+
+http://iapr.papercept.net
+
+For any correspondence regarding this paper, please be sure to refer to your paper ID (107).
+
+We are looking forward to meeting you at the ICPR 2022 conference.
+
+Thanks
+
+Gregory Dudek Zhouchen Lin Simone Marinai Ingela Nystr鰉
+
+Program Chairs, ICPR2022
+
+
+------------------------------------------------
+Manuscript data
+===============
+
+Authors and title:
+
+Miao Cheng, Xinge You
+Leachable Component Clustering
+
+Submission number: 107
+Type of submission: Revised paper
+Status: Final version received
+Conference: 2022 26th International Conference on Pattern Recognition (ICPR)
+
+
+------------------------------------------------
+Log in at https://iapr.papercept.net/conferences/scripts/start.pl using your PIN 22379 and password to check the status of your submission
+You may update the final version information and re-upload the manuscript until the final submission deadline June 27, 2022
+You may also re-upload any attachments to the submission. Please check the site for the deadlines
+If you do not have your password then follow the link https://iapr.papercept.net/conferences/scripts/pinwizard.pl to retrieve it
+
+---- Forwarded Message ----
+From 	<ecopyright@ieee.org>
+
+Date 	06/25/2022 12:06
+To 	<mcheng@mailbox.gxnu.edu.cn>
+
+Cc 	<miao_cheng@outlook.com>
+
+Subject 	IEEE Copyright Transfer Confirmation for Article: Leachable Component Clustering
+IEEE Electronic Publication Agreement Receipt
+============================================= 
+
+
+Publication Title: 2022 26th International Conference on Pattern Recognition (ICPR) 
+Article Title: Leachable Component Clustering
+Author(s): Miao Cheng, Xinge You 
+Author E-mail: mcheng@mailbox.gxnu.edu.cn, miao_cheng@outlook.com 
+eCF Paper Id: iapr.ICPR22.107.d90ff6e9 
+
+
+Dear Colleague 
+
+Congratulations! You have successfully completed the IEEE Electronic Publication Agreement. A copy of the fully executed Agreement is attached here for your records. Please save this e-mail for any future reference. 
+
+
+PLEASE DO NOT RESPOND TO THIS EMAIL.
+For technical assistance or to search our knowledge base, please visit our support site at :
+
+http://ieee.custhelp.com/app/answers/list/p/197,2375
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<iapr@papercept.net>
+
+Date 	06/17/2022 01:17
+To 	<mcheng@mailbox.gxnu.edu.cn> ,
+<miao_cheng@outlook.com>
+
+Subject 	ICPR 2022: Copyright is operational, final submissions due by June 27
+Dear Author,
+
+After some delay, we are now ready to accept final versions
+of manuscripts for publication with IEEE. There are a
+number of steps required to do this, so please follow the
+instructions below carefully.
+
+First, proofread your manuscript and ensure that your pdf
+document meets the page limits (six pages of text plus
+unlimited pages of references).
+
+Second, use the free service at pdf express
+(https://ieee-pdf-express.org) to validate your pdf file.
+This is necessary to ensure that when the manuscript gets
+to the IEEE it meets their standard for publication. The
+Conference ID for ICPR 2022 is 56361X. Please note that
+PaperCept will also do a digital validation of page size
+and margins, using but pdf express will catch some
+potential concerns earlier.
+
+Finally, log on to papercept and submit your manuscript. In
+this process you will be required to assign copyright of
+your paper to the IEEE. The IEEE does allow you to post
+copies of IEEE accepted manuscripts under certain
+conditions. See
+https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/author_version_faq.pdf
+for details of this.
+
+Note that ONLY the designated "Corresponding author" for
+your
+paper will be able to complete the final submission.
+
+We have extended the deadline for submitting final versions
+of manuscripts until the 27th of June. 
+
+Once again, we apologize for the delay and I look forward
+to seeing you in Montreal in August.
+
+Michael Jenkin
+ICPR 2022
+
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<noreply@papercept.net>
+
+Date 	06/9/2022 22:59
+To 	Miao Cheng<mcheng@mailbox.gxnu.edu.cn> ,
+Miao Cheng<miao_cheng@outlook.com>
+
+Cc 	<youxg@mail.hust.edu.cn>
+
+Subject 	Notification: Change of the final submission deadline for ICPR 2022 submission 107
+Message from The PaperCept Conference Management System
+
+Message originated by Michael Jenkin
+
+The final submission deadline of ICPR 2022 Revised papers has been changed to Monday June 20, 2022.
+Your Revised paper "Leachable Component Clustering", by Miao Cheng, Xinge You, has not yet been received.
+The corresponding author of the submission may submit the final version of the manuscript until the deadline.
+
+
+Thank you
+---------------------------------------------------------
+Michael Jenkin
+EECS
+York University
+4700 Keele St
+Toronto, Ontario M3J1P3
+Canada
+E-mail address: jenkin@yorku.ca
+
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<iapr@papercept.net>
+
+Date 	06/3/2022 17:35
+To 	<mcheng@mailbox.gxnu.edu.cn> ,
+<miao_cheng@outlook.com>
+
+Subject 	ICPR2022: Application for IAPR Travel Stipend
+Message from The PaperCept Conference Management System
+
+Dear authors of accepted ICPR papers, 
+
+The IAPR Executive Committee is pleased to announce a
+limited number of IAPR Travel Stipends in the amount of 995
+US$ to authors of accepted papers at ICPR 2022 to encourage
+increased participation from those with very limited
+resources to pay for the conference registration fee. 
+If you would like to apply for a travel stipend, please
+complete the Google form available at: 
+https://forms.gle/SsUhky74krm2cVhX9 
+
+Please note the following important dates: 
+08 June 2022: deadline for the travel stipend application
+12 June 2022: notification on travel stipend applications
+13 June 2022: deadline for early-bird registration. 
+
+Sincerely,
+Arjan Kuijper
+IAPR Secretary
+arjan.kuijper@igd.fraunhofer.de 
+
+
+
+
+
+
+
+
+-----------------------------------------------------------
+Prof. Cheng-Lin Liu
+National Laboratory of Pattern Recognition
+Institute of Automation of Chinese Academy of Sciences
+95 Zhongguancun East Road
+100190 Beijing
+China
+E-mail address: liucl@nlpr.ia.ac.cn
+
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<iapr@papercept.net>
+
+Date 	06/1/2022 20:53
+To 	<mcheng@mailbox.gxnu.edu.cn> ,
+<miao_cheng@outlook.com>
+
+Subject 	ICPR 2022 final manuscript submission deadline extended.
+Message from The PaperCept Conference Management System
+
+Due to difficulties in accepting camera ready manuscripts,
+the deadline for submission has been delayed by one week to
+June 13th. The early registration fee deadline has been
+extended to June 13th. 
+
+At present it is not possible to submit your camera ready
+manuscript. If you try, you will receive an error message
+from papercept. As soon as the issue is addressed we will
+email the contact author for all accepted manuscripts.
+
+The registration portal is open and we are accepting
+registrations. If you encounter an issue with registration
+please use the contact email on the registration page.
+
+If you require a letter to support a visa application, the
+information for this can be found on the registration page.
+It is not possible to prepare these letters unless you have
+already registered for the conference.
+
+-----------------------------------------------------------
+Michael Jenkin
+EECS
+York University
+4700 Keele St
+Toronto, Ontario M3J1P3
+Canada
+E-mail address: jenkin@yorku.ca
+
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<noreply@papercept.net>
+
+Date 	06/1/2022 20:45
+To 	Miao Cheng<mcheng@mailbox.gxnu.edu.cn> ,
+Miao Cheng<miao_cheng@outlook.com>
+
+Cc 	<youxg@mail.hust.edu.cn>
+
+Subject 	Notification: Change of the final submission deadline for ICPR 2022 submission 107
+Message from The PaperCept Conference Management System
+
+Message originated by Michael Jenkin
+
+The final submission deadline of ICPR 2022 Revised papers has been changed to Monday June 13, 2022.
+Your Revised paper "Leachable Component Clustering", by Miao Cheng, Xinge You, has not yet been received.
+The corresponding author of the submission may submit the final version of the manuscript until the deadline.
+
+
+Thank you
+---------------------------------------------------------
+Michael Jenkin
+EECS
+York University
+4700 Keele St
+Toronto, Ontario M3J1P3
+Canada
+E-mail address: jenkin@yorku.ca
+
+---- Forwarded Message ----
+From 	Michael R Jenkin<michael.jenkin@lassonde.yorku.ca>
+
+Date 	05/31/2022 20:25
+To 	程淼<mcheng@mailbox.gxnu.edu.cn>
+
+Subject 	Re: Set or reset code for PIN 22379
+Just waiting. We will reach out when fixed. Michael
+
+
+On May 30, 2022, at 10:39 AM, 程淼 <mcheng@mailbox.gxnu.edu.cn> wrote:
+
+
+Hello,
+
+By the way, the weblink for copyright transfer is also suspended, with the following information.
+
+'There is an issue with the connection to your publication's manuscript submission system. Please inform the Publication Chair or Editor and refer to the following error code for assistance: 1002'
+
+I hold no experience for such case.
+
+And I do not know whether it is natural, or else ? ? 
+
+For us, just waiting, or else ?
+
+
+Regards,
+
+
+Miao Cheng
+------------------------
+School of Computer Science and Information Engineering
+Guangxi Normal Univeristy
+Guilin, Guangxi, China
+Email: mcheng@mailbox.gxnu.edu.cn
+On 5/30/2022 21:46，Michael R Jenkin<michael.jenkin@lassonde.yorku.ca> wrote： 
+You should have received an email from papercept. We are not yet ready to receive camera ready manuscripts. When we are papercept will send you an email. We apologize for the inconvenience. Michael
+
+
+On May 30, 2022, at 3:13 AM, 程淼 <mcheng@mailbox.gxnu.edu.cn> wrote:
+
+
+Hello,
+
+
+This is the corresponding author of the submission with paper id 107. I have tried to finish the final submission steps of our submission to ICPR '22 in recent days. However, there are still several issues.
+
+
+a. Firstly, the copyright transfer is forwarded to unknown information, such as
+
+'There is an issue with the connection to your publication's manuscript submission system. Please inform the Publication Chair or Editor and refer to the following error code for assistance: 1002'
+
+
+b. It seems that there is still no step for uploading of final version of submission. 
+
+
+I would appreciate if you can kindly check the issues with your assistance. 
+
+And I will look forward to your feedback.
+
+
+Many thanks and regards,
+
+
+
+Miao Cheng
+------------------------
+School of Computer Science and Information Engineering
+Guangxi Normal Univeristy
+Guilin, Guangxi, China
+Email: mcheng@mailbox.gxnu.edu.cn
+--------- Forwarded Message ---------
+From： Pradeep Misra <p.x.misra@gmail.com>
+Date： 5/30/2022 13:25
+To： 程淼 <mcheng@mailbox.gxnu.edu.cn>
+Cc： iapr@papercept.net <iapr@papercept.net>
+Subject： Re: Set or reset code for PIN 22379
+For copyright you need to write to Michael R Jenkin <michael.jenkin@lassonde.yorku.ca>
+once copyright is transferred you will see the link for final paper submission.
+
+On Sun, May 29, 2022 at 9:39 PM 程淼 <mcheng@mailbox.gxnu.edu.cn> wrote:
+
+Hello,
+
+
+This is the corresponding author of the submission with paper id 107. I have tried to finish the final submission steps of our submission to ICPR'22. However, there are several issues.
+
+
+a. Firstly, the copyright transfer is forwarded to unknown information, such as
+
+'There is an issue with the connection to your publication's manuscript submission system. Please inform the Publication Chair or Editor and refer to the following error code for assistance: 1002'
+
+
+b. It seems that there is no step for uploading of final version of submission.
+
+
+I would appreciate if you can kindly check the issues with your assistance. 
+
+I will look forward to your feedback.
+
+
+
+Many thanks and regards,
+
+
+Miao Cheng
+------------------------
+School of Computer Science and Information Engineering
+Guangxi Normal University
+Guilin, Guangxi, China
+Email: mcheng@mailbox.gxnu.edu.cn
+On 5/30/2022 09:18，<iapr@papercept.net> wrote： 
+
+Message from The PaperCept Conference Management System
+
+Copy and paste the code  nQR%2Fuh%2  into the box for this purpose and click on Enter.
+
+This case sensitive code is valid today and the day after (Papercept server time).
+
+This code is not your password.
+
+
+The PaperCept Conference Management System team
+
+
+
+
+
+---- Forwarded Message ----
+From 	Michael R Jenkin<michael.jenkin@lassonde.yorku.ca>
+
+Date 	05/30/2022 21:46
+To 	程淼<mcheng@mailbox.gxnu.edu.cn>
+
+Subject 	Re: Set or reset code for PIN 22379
+You should have received an email from papercept. We are not yet ready to receive camera ready manuscripts. When we are papercept will send you an email. We apologize for the inconvenience. Michael
+
+
+On May 30, 2022, at 3:13 AM, 程淼 <mcheng@mailbox.gxnu.edu.cn> wrote:
+
+
+Hello,
+
+
+This is the corresponding author of the submission with paper id 107. I have tried to finish the final submission steps of our submission to ICPR '22 in recent days. However, there are still several issues.
+
+
+a. Firstly, the copyright transfer is forwarded to unknown information, such as
+
+'There is an issue with the connection to your publication's manuscript submission system. Please inform the Publication Chair or Editor and refer to the following error code for assistance: 1002'
+
+
+b. It seems that there is still no step for uploading of final version of submission. 
+
+
+I would appreciate if you can kindly check the issues with your assistance. 
+
+And I will look forward to your feedback.
+
+
+Many thanks and regards,
+
+
+
+Miao Cheng
+------------------------
+School of Computer Science and Information Engineering
+Guangxi Normal Univeristy
+Guilin, Guangxi, China
+Email: mcheng@mailbox.gxnu.edu.cn
+--------- Forwarded Message ---------
+From： Pradeep Misra <p.x.misra@gmail.com>
+Date： 5/30/2022 13:25
+To： 程淼 <mcheng@mailbox.gxnu.edu.cn>
+Cc： iapr@papercept.net <iapr@papercept.net>
+Subject： Re: Set or reset code for PIN 22379
+For copyright you need to write to Michael R Jenkin <michael.jenkin@lassonde.yorku.ca>
+once copyright is transferred you will see the link for final paper submission.
+
+On Sun, May 29, 2022 at 9:39 PM 程淼 <mcheng@mailbox.gxnu.edu.cn> wrote:
+
+Hello,
+
+
+This is the corresponding author of the submission with paper id 107. I have tried to finish the final submission steps of our submission to ICPR'22. However, there are several issues.
+
+
+a. Firstly, the copyright transfer is forwarded to unknown information, such as
+
+'There is an issue with the connection to your publication's manuscript submission system. Please inform the Publication Chair or Editor and refer to the following error code for assistance: 1002'
+
+
+b. It seems that there is no step for uploading of final version of submission.
+
+
+I would appreciate if you can kindly check the issues with your assistance. 
+
+I will look forward to your feedback.
+
+
+
+Many thanks and regards,
+
+
+Miao Cheng
+------------------------
+School of Computer Science and Information Engineering
+Guangxi Normal University
+Guilin, Guangxi, China
+Email: mcheng@mailbox.gxnu.edu.cn
+On 5/30/2022 09:18，<iapr@papercept.net> wrote： 
+
+Message from The PaperCept Conference Management System
+
+Copy and paste the code  nQR%2Fuh%2  into the box for this purpose and click on Enter.
+
+This case sensitive code is valid today and the day after (Papercept server time).
+
+This code is not your password.
+
+
+The PaperCept Conference Management System team
+
+
+
+---- Forwarded Message ----
+From 	Pradeep Misra<p.x.misra@gmail.com>
+
+Date 	05/30/2022 13:25
+To 	程淼<mcheng@mailbox.gxnu.edu.cn>
+
+Cc 	iapr@papercept.net<iapr@papercept.net>
+
+Subject 	Re: Set or reset code for PIN 22379
+For copyright you need to write to Michael R Jenkin <michael.jenkin@lassonde.yorku.ca>
+once copyright is transferred you will see the link for final paper submission.
+
+On Sun, May 29, 2022 at 9:39 PM 程淼 <mcheng@mailbox.gxnu.edu.cn> wrote:
+
+Hello,
+
+
+This is the corresponding author of the submission with paper id 107. I have tried to finish the final submission steps of our submission to ICPR'22. However, there are several issues.
+
+
+a. Firstly, the copyright transfer is forwarded to unknown information, such as
+
+'There is an issue with the connection to your publication's manuscript submission system. Please inform the Publication Chair or Editor and refer to the following error code for assistance: 1002'
+
+
+b. It seems that there is no step for uploading of final version of submission.
+
+
+I would appreciate if you can kindly check the issues with your assistance. 
+
+I will look forward to your feedback.
+
+
+
+Many thanks and regards,
+
+
+Miao Cheng
+------------------------
+School of Computer Science and Information Engineering
+Guangxi Normal University
+Guilin, Guangxi, China
+Email: mcheng@mailbox.gxnu.edu.cn
+On 5/30/2022 09:18，<iapr@papercept.net> wrote： 
+
+Message from The PaperCept Conference Management System
+
+Copy and paste the code  nQR%2Fuh%2  into the box for this purpose and click on Enter.
+
+This case sensitive code is valid today and the day after (Papercept server time).
+
+This code is not your password.
+
+
+The PaperCept Conference Management System team
+
+
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<iapr@papercept.net>
+
+Date 	05/23/2022 20:55
+To 	<mcheng@mailbox.gxnu.edu.cn> ,
+<cheng_miao@hotmail.com>
+
+Subject 	ICPR 2022: Camera ready paper submission
+Message from The PaperCept Conference Management System
+
+
+We are not quite ready to accept final camera ready
+manuscripts through Papercept. We expect to have this issue
+addressed shortly. You will receive an email through
+Papercept as soon as this issue is addressed and you will
+be able to submit camera ready papers at that time.
+
+I apologize for the inconvenience.
+
+
+-----------------------------------------------------------
+Michael Jenkin
+General Chair
+ICPR
+
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<iapr@papercept.net>
+
+Date 	05/18/2022 09:04
+To 	Miao Cheng<mcheng@mailbox.gxnu.edu.cn> ,
+Miao Cheng<cheng_miao@hotmail.com>
+
+Cc 	<youxg@mail.hust.edu.cn>
+
+Subject 	Decision on ICPR 2022 submission 107
+Message from The PaperCept Conference Management System
+
+Message originated by Michael Jenkin
+
+Dear Prof. Miao Cheng,
+
+After careful consideration of reviewers scores, we are pleased to inform you that the revised version of your paper
+
+Submission number: 107
+Title: Leachable Component Clustering
+Authors: Miao Cheng*, Xinge You
+
+you have submitted to ICPR 2022 has been ACCEPTED for presentation and inclusion in the proceedings. The type of presentation (Oral/Poster) will be announced in a few weeks.
+
+Attached to this e-mail message you will find any additional reviews that were received for your manuscript together with a report from the Area chair in charge of your submission.
+
+To upload the camera ready version of the manuscript, the corresponding author must log in to the submission site, enter the workspace as author and follow the action link. Only the corresponding author is able to do this. No changes are allowed to the version approved unless in response to the reviewers' suggestions for improvement. The camera ready paper should not include the rebuttal/description of changes and must meet the original page limits for the submission.
+
+We will need to receive the camera ready version for proceedings by June 6, 2022. 
+
+Note that the camera ready submission process is not ready for papers. We will email you when you can do the final submission.
+
+Please note that at least one of the authors must register for the conference paying regular registration fees (not student fee). Papers without registration will not be included in the conference program or in the proceedings. Instructions for registration will be given on the conference webpage in the following days. 
+
+
+Sincerely,
+
+Gregory Dudek
+Zhouchen Lin
+Simone Marinai
+Ingela Nystr鰉
+
+Program Chairs, ICPR2022
+
+----------------------------------------------
+Decision: Accepted as Revised paper.
+Decision on Supplementary material: Accepted
+
+Final submission deadline June 6, 2022.
+----------------------------------------------
+Submission information
+Authors and title:
+Miao Cheng*, Xinge You
+Leachable Component Clustering
+Conference: 26th International Conference on Pattern Recognition.
+Current status: Accepted.
+Submission number: 107.
+----------------------------------------------
+To access your workspace please log in at https://iapr.papercept.net/conferences/scripts/start.pl using your PIN 22379 and password
+
+To see this decision message and the reviews (if any) choose the appropriate option under "Choose an option..." for this submission in your ICPR 2022 author workspace
+
+If you do not have your password then follow the link https://iapr.papercept.net/conferences/scripts/pinwizard.pl to retrieve it
+
+----------------------------------------------
+Michael Jenkin
+EECS
+York University
+4700 Keele St
+Toronto, Ontario M3J1P3
+Canada
+E-mail address: jenkin@yorku.ca
+---- Forwarded Message ----
+From 	Michael R Jenkin<michael.jenkin@lassonde.yorku.ca>
+
+Date 	04/14/2022 11:14
+To 	程淼<mcheng@mailbox.gxnu.edu.cn>
+
+Cc 	Michael R Jenkin<michael.jenkin@lassonde.yorku.ca>
+
+Subject 	Re: About the maximum length of resubmission to ICPR'22
+For the revise and resubmit you are permitted 6 pages of text plus unlimited pages of reference plus 2 pages for the rebuttal. For the camera ready version you have 6 pages of text, unlimited pages of references and no rebuttal.
+
+
+On Apr 13, 2022, at 9:54 PM, 程淼 <mcheng@mailbox.gxnu.edu.cn> wrote:
+
+
+Hello,
+
+
+Could I have your attention, please ? I am the corresponding author of the paper ID: 107 submitted to ICPR’22.
+
+I received the decision letter from ICPR’22 in the end of last month, and was required to resubmitted our work with the maximum length of ten pages in IEEE format, as listed below.
+
+
+********************
+Overall, your revised submission can have maximum 10 pages (2 for your rebuttal and 8 for the actual paper to be evaluated). Please note that the intention is to assign the same reviewers from the first round (subject to their availability). A definitive decision on whether the paper is accepted will be made on the basis of the revised manuscript and the Author's Response.
+********************
+
+
+
+
+However, another message has been recently received, and stated that, the length of resubmitted paper should be no more than six pages as originally required. And the deadline of 
+resubmission has been delayed to April 21st.
+
+
+********************
+Message from The PaperCept Conference Management System
+
+
+At the request of some of the track chairs, we have pushed
+back the deadline for revise and resubmit manuscripts to
+April the 21st (a two day extension). Also, to clarify some
+confusion in the previous email, the manuscript length for
+revise and resubmit is six pages of text, unlimited pages
+of references and two pages of rebuttal. The final camera
+ready version is six pages of text, unlimited pages of
+references and no rebuttal.
+********************
+
+
+
+
+As the resubmitted version is quite related to the final result, I would appreciate if you could post an official confirmation for the maximum length of resubmitted paper, as well as the deadline date of resubmission.
+
+
+I would look forward to your kind feedback.
+
+
+
+
+
+
+Many thanks and regards,
+
+
+
+
+
+Miao Cheng
+------------------------
+School of Computer Science and Information Engineering
+Guangxi Normal Univeristy
+Guilin, Guangxi, China
+Email: mcheng@mailbox.gxnu.edu.cn
+
+
+
+---- Forwarded Message ----
+From 	Pradeep Misra<p.x.misra@gmail.com>
+
+Date 	04/14/2022 02:16
+To 	<mcheng@mailbox.gxnu.edu.cn>
+
+Cc 	iapr@papercept.net<iapr@papercept.net>
+
+Subject 	Re: About the maximum length of resubmission
+Please write to Michael R Jenkin <michael.jenkin@lassonde.yorku.ca>
+
+On Wed, Apr 13, 2022 at 12:31 PM 程淼 <mcheng@mailbox.gxnu.edu.cn> wrote:
+
+Hello,
+
+
+Could I have your attention, please ? I am the corresponding author of the paper ID: 107 submitted to ICPR’22.
+
+I received the decision letter from ICPR’22 in the end of last month, and was required to resubmitted our work with the maximum length of ten pages in IEEE format, as listed below.
+
+
+********************
+Overall, your revised submission can have maximum 10 pages (2 for your rebuttal and 8 for the actual paper to be evaluated). Please note that the intention is to assign the same reviewers from the first round (subject to their availability). A definitive decision on whether the paper is accepted will be made on the basis of the revised manuscript and the Author's Response.
+********************
+
+
+
+
+However, another message has been recently received, and stated that, the length of resubmitted paper should be no more than six pages as originally required. And the deadline of 
+resubmission has been delayed to April 21st.
+
+
+********************
+Message from The PaperCept Conference Management System
+
+
+At the request of some of the track chairs, we have pushed
+back the deadline for revise and resubmit manuscripts to
+April the 21st (a two day extension). Also, to clarify some
+confusion in the previous email, the manuscript length for
+revise and resubmit is six pages of text, unlimited pages
+of references and two pages of rebuttal. The final camera
+ready version is six pages of text, unlimited pages of
+references and no rebuttal.
+********************
+
+
+
+
+As the resubmitted version is quite related to the final result, I would appreciate if you could give me an official confirmation for the maximum length of resubmitted paper,
+as well as the deadline date of resubmission.
+
+
+I would look forward to your kind feedback.
+
+
+
+
+
+
+Many thanks and regards,
+
+
+
+
+
+Miao Cheng
+------------------------
+School of Computer Science and Information Engineering
+Guangxi Normal Univeristy
+Guilin, Guangxi, China
+Email: mcheng@mailbox.gxnu.edu.cn
+
+
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<iapr@papercept.net>
+
+Date 	03/29/2022 07:06
+To 	Miao Cheng<mcheng@mailbox.gxnu.edu.cn> ,
+Miao Cheng<miao_cheng@outlook.com>
+
+Cc 	<youxg@mail.hust.edu.cn>
+
+Subject 	Decision on ICPR 2022 submission 107
+Message from The PaperCept Conference Management System
+
+Message originated by Michael Jenkin
+
+Dear Prof. Miao Cheng,
+
+Your submission 107 to ICPR 2022 referenced below has been evaluated. Attached to this e-mail message you will find the reviews that were received for your manuscript together with a report from the Area chair in charge of your submission.
+
+According to the ICPR 2022 two-round review system, your submission needs to undergo a MAJOR REVISION In order to considered for publication in ICPR 2022.
+
+We therefore invite you to revise the manuscript based on reviewers' comments and/or Area Chair's summary report. Please upload the Revised Manuscript together with an Author's Response. The Author's Response should describe the changes that were made according to the indications received from the reviewers and Area Chair. The Author's Response should be limited to 2 PDF pages which need to be included in the revised manuscript file. Overall, your revised submission can have maximum 10 pages (2 for your rebuttal and 8 for the actual paper to be evaluated). Please note that the intention is to assign the same reviewers from the first round (subject to their availability).
+
+A definitive decision on whether the paper is accepted will be made on the basis of the revised manuscript and the Author's Response.
+
+To upload the Revised Manuscript and Author's Response, the corresponding author must log in to the submission site, enter the workspace as author and follow the action link for your paper provided for submitting the revised version. Only the corresponding author is able to do this.
+
+A revised version of your manuscript along with a rebuttal/description of changes must be uploaded to the submission site no later than April 18, 2022. Final decisions will be announced no later than May 9, 2022.
+
+Please note that at least one of the authors of papers accepted on May 9 must register for the conference paying regular registration fees (not student fee). Papers without registration will not be included in the conference program or in the proceedings. Instructions for registration will be given on the conference webpage in the following days. 
+
+
+Sincerely,
+
+Gregory Dudek
+Zhouchen Lin
+Simone Marinai
+Ingela Nystr鰉
+
+Program Chairs, ICPR2022
+
+----------------------------------------------
+Decision: Accepted as Revise and resubmit.
+----------------------------------------------
+REVISED PAPER SUBMISSION INFORMATION  
+You are invited to submit your ICPR 2022 Revised paper  
+--Go to the submission wizard start page https://iapr.papercept.net/conferences/scripts/submissionwizard.pl?ConfID=25
+and follow the initial submission link for Revised paper  
+--When requested enter this 10-CHARACTER SUBMISSION CODE to continue: 0107d9e7b8  
+--Only the corresponding author Miao Cheng (22379) may complete the submission  
+--Alternatively, the corresponding author may log in at https://iapr.papercept.net/conferences/scripts/start.pl,
+enter the author workspace for ICPR 2022 and follow the action link provided for submission 107.
+No submission code is required in this case  
+--The submission deadline for Revised paper is April 19, 2022  
+
+----------------------------------------------
+
+Submission information
+Authors and title:
+Miao Cheng*, Xinge You
+Latent Leachable Component Clustering
+Conference: 26th International Conference on Pattern Recognition.
+Current status: Accepted.
+Submission number: 107.
+----------------------------------------------
+To access your workspace please log in at https://iapr.papercept.net/conferences/scripts/start.pl using your PIN 22379 and password
+
+To see this decision message and the reviews (if any) choose the appropriate option under "Choose an option..." for this submission in your ICPR 2022 author workspace
+
+If you do not have your password then follow the link https://iapr.papercept.net/conferences/scripts/pinwizard.pl to retrieve it
+
+----------------------------------------------
+Michael Jenkin
+EECS
+York University
+4700 Keele St
+Toronto, Ontario M3J1P3
+Canada
+E-mail address: jenkin@yorku.ca
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<iapr@papercept.net>
+
+Date 	03/29/2022 07:06
+To 	Miao Cheng<mcheng@mailbox.gxnu.edu.cn> ,
+Miao Cheng<miao_cheng@outlook.com>
+
+Cc 	<youxg@mail.hust.edu.cn>
+
+Subject 	Decision on ICPR 2022 submission 107
+Message from The PaperCept Conference Management System
+
+Message originated by Michael Jenkin
+
+Dear Prof. Miao Cheng,
+
+Your submission 107 to ICPR 2022 referenced below has been evaluated. Attached to this e-mail message you will find the reviews that were received for your manuscript together with a report from the Area chair in charge of your submission.
+
+According to the ICPR 2022 two-round review system, your submission needs to undergo a MAJOR REVISION In order to considered for publication in ICPR 2022.
+
+We therefore invite you to revise the manuscript based on reviewers' comments and/or Area Chair's summary report. Please upload the Revised Manuscript together with an Author's Response. The Author's Response should describe the changes that were made according to the indications received from the reviewers and Area Chair. The Author's Response should be limited to 2 PDF pages which need to be included in the revised manuscript file. Overall, your revised submission can have maximum 10 pages (2 for your rebuttal and 8 for the actual paper to be evaluated). Please note that the intention is to assign the same reviewers from the first round (subject to their availability).
+
+A definitive decision on whether the paper is accepted will be made on the basis of the revised manuscript and the Author's Response.
+
+To upload the Revised Manuscript and Author's Response, the corresponding author must log in to the submission site, enter the workspace as author and follow the action link for your paper provided for submitting the revised version. Only the corresponding author is able to do this.
+
+A revised version of your manuscript along with a rebuttal/description of changes must be uploaded to the submission site no later than April 18, 2022. Final decisions will be announced no later than May 9, 2022.
+
+Please note that at least one of the authors of papers accepted on May 9 must register for the conference paying regular registration fees (not student fee). Papers without registration will not be included in the conference program or in the proceedings. Instructions for registration will be given on the conference webpage in the following days. 
+
+
+Sincerely,
+
+Gregory Dudek
+Zhouchen Lin
+Simone Marinai
+Ingela Nystr鰉
+
+Program Chairs, ICPR2022
+
+----------------------------------------------
+Decision: Accepted as Revise and resubmit.
+----------------------------------------------
+REVISED PAPER SUBMISSION INFORMATION  
+You are invited to submit your ICPR 2022 Revised paper  
+--Go to the submission wizard start page https://iapr.papercept.net/conferences/scripts/submissionwizard.pl?ConfID=25
+and follow the initial submission link for Revised paper  
+--When requested enter this 10-CHARACTER SUBMISSION CODE to continue: 0107d9e7b8  
+--Only the corresponding author Miao Cheng (22379) may complete the submission  
+--Alternatively, the corresponding author may log in at https://iapr.papercept.net/conferences/scripts/start.pl,
+enter the author workspace for ICPR 2022 and follow the action link provided for submission 107.
+No submission code is required in this case  
+--The submission deadline for Revised paper is April 19, 2022  
+
+----------------------------------------------
+
+Submission information
+Authors and title:
+Miao Cheng*, Xinge You
+Latent Leachable Component Clustering
+Conference: 26th International Conference on Pattern Recognition.
+Current status: Accepted.
+Submission number: 107.
+----------------------------------------------
+To access your workspace please log in at https://iapr.papercept.net/conferences/scripts/start.pl using your PIN 22379 and password
+
+To see this decision message and the reviews (if any) choose the appropriate option under "Choose an option..." for this submission in your ICPR 2022 author workspace
+
+If you do not have your password then follow the link https://iapr.papercept.net/conferences/scripts/pinwizard.pl to retrieve it
+
+----------------------------------------------
+Michael Jenkin
+EECS
+York University
+4700 Keele St
+Toronto, Ontario M3J1P3
+Canada
+E-mail address: jenkin@yorku.ca
+---- Forwarded Message ----
+From 	The PaperCept Conference Management System<iapr@papercept.net>
+
+Date 	01/3/2022 18:02
+To 	<mcheng@mailbox.gxnu.edu.cn> ,
+<miao_cheng@outlook.com>
+
+Cc 	<youxg@mail.hust.edu.cn>
+
+Subject 	Acknowledgement of submission of Contributed paper 107 for ICPR 2022
+Message from The PaperCept Conference Management System
+
+
+Dear Prof. Miao Cheng:
+
+This email is to acknowledge receipt of your manuscript submitted to the 26th International Conference on Pattern Recognition (ICPR 2022) through the Conference Paper Management System of the IAPR.
+
+Attached below are pertinent data on your submission for you to verify. If there is any error or necessary change to your contact data, please update the data at the following site:
+
+http://iapr.papercept.net
+
+To modify/update submission information or manuscript, the "corresponding" author must login and follow the appropriate link in the author workspace. Note that you "will not" get additional acknowledgements if you update paper information or reupload your manuscript. You will also have an opportunity to do so when submitting the final version for publication in the proceedings.
+
+For any correspondence regarding this paper, please be sure to refer to your paper ID.
+
+Gregory Dudek Zhouchen Lin Simone Marinai Ingela Nystr鰉
+
+
+Program Chairs, ICPR2022
+
+
+
+Manuscript data
+==================================================
+Submission number: 107
+Authors or proposers names and PINs:
+Miao Cheng (22379), Xinge You (14314)
+
+Corresponding author or proposer:
+Miao Cheng, mcheng@mailbox.gxnu.edu.cn, miao_cheng@outlook.com
+Title:
+Latent Leachable Component Clustering
+Date submitted: January 3, 2022
+Type of submission: Contributed paper
+Status: Received
+Preferred type of presentation: Oral presentation
+Award candidate: None
+Keywords:
+Classification and clustering; Statistical learning theory;
+Representation learning
+Profile:
+Track 1: Artificial Intelligence, Machine Learning for Pattern
+Analysis
+Abstract:
+Clustering attempts to partition data instances into
+several distinctive groups, while the similarities among
+data belonging to the common partition can be principally
+reserved. Furthermore, incomplete data frequently occurs in
+many real-world applications, and brings perverse influence
+on pattern analysis. As a consequence, the specific
+solutions to data imputation and handling are developed to
+conduct the missing values of data, and independent stage
+of knowledge exploitation is absorbed for information
+understanding. In this work, two novel approaches to
+clustering of incomplete data, termed latent leachable
+component clustering, are proposed, while self-expressive
+clustering is adopted. Rather than existing methods, the
+proposed methods handle data imputation with Bayes
+alignment and preservation of information volumes in
+theory. Due to the simple numeric computation of equations,
+the proposed methods are able to reserve calculation
+efficiency during iterative learning. Experiments on
+several artificial incomplete data sets demonstrate that,
+the proposed methods are able to give fascinating
+performance compared with other state-of-the-art methods. 
+==================================================
+
+You uploaded the file llcc_icpr.pdf
+
+Log in at https://iapr.papercept.net/conferences/scripts/start.pl using your PIN 22379 and password to check the 
+status of your submission
+
+You may update, re-upload or delete your submission until the submission deadline January 17, 2022 after logging in with your PIN and password
+
+If you do not have your password then follow the link https://iapr.papercept.net/conferences/scripts/pinwizard.pl to retrieve it
+
